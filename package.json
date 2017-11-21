@@ -1,0 +1,8 @@
+{
+  "name": "pooper",
+  "author": "gamasak",
+  "private": true,
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
